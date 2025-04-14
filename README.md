@@ -38,7 +38,7 @@ For embedding generation, any compatible transformer-based model may be used.
 In our experiments, we tested with models inspired by architectures such as [BrainBERT](https://github.com/czlwang/BrainBERT), 
 which can output dense latent representations from time-frequency iEEG inputs. 
 
-Please note: The referenced repository does not include a public license and is used here solely for academic exploration purposes. No code from the repository is redistributed.
+Please note: The referenced repository is used here solely for academic exploration purposes. No code from the repository is redistributed.
 ---
 
 ## ⚙️ Conda Setup
