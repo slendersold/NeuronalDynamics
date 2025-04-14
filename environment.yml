@@ -1,0 +1,28 @@
+name: brainbert
+channels:
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - python=3.10
+  - make
+  - binutils
+  - bison
+  - python-dateutil
+  - tensorboard
+  - pandas
+  - tqdm
+  - tensorboardx
+  - mne
+  - psutil
+  - omegaconf
+  - h5py
+  - scipy
+  - tables
+  - hydra-core
+  - scikit-learn
+  - git
+  - conda-forge::fpdf
+  - conda-forge::pyedflib
+  - conda-forge::umap-learn
+  - libstdcxx-ng
+prefix: /home/asma.benachour/miniconda3/envs/brainbert
